@@ -1,0 +1,109 @@
+h1 {
+   text-align: center;
+   background-color: #7fffd4;
+   margin: auto;
+   width: 95%;
+   border-radius: 5px;
+}
+.heading {
+   margin-top: 10px;
+   padding-bottom: 5px;
+}
+.parent {
+   display: flex;
+   flex-direction: row;
+}
+
+.first {
+   padding-top: 5px;
+   text-align: center;
+   width: 30%;
+
+   margin-left: 2.5%;
+   box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.2);
+   border-radius: 5px;
+   transition: 0.3s;
+   background-color: aquamarine;
+}
+.second {
+   padding-top: 5px;
+   text-align: center;
+   width: 30%;
+
+   margin-left: 2.5%;
+   box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.2);
+   border-radius: 5px;
+   transition: 0.3s;
+   background-color: aquamarine;
+}
+.third {
+   text-align: center;
+   width: 30%;
+   margin-left: 2.5%;
+}
+.faction {
+   box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.2);
+   border-radius: 5px;
+   transition: 0.3s;
+   background-color: aquamarine;
+}
+
+.speed {
+   box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.2);
+   border-radius: 5px;
+   transition: 0.3s;
+   background-color: aquamarine;
+}
+
+.form-control {
+   margin-left: auto;
+   margin-right: auto;
+}
+.train-boost {
+   margin-top: 10px;
+}
+
+.train-boost button {
+   margin-top: 2px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.display {
+   text-align: left;
+}
+
+.av h5 {
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.line1 {
+   margin-top: 25px;
+   display: flex;
+   flex-direction: row;
+}
+.line2 {
+   margin-top: 25px;
+   display: flex;
+   flex-direction: row;
+}
+
+.line1 div {
+   width: 17%;
+   background-color: #ff7faa;
+   border-radius: 5px;
+   height: 6rem;
+   margin-left: 2.5%;
+   box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.2);
+   transition: 0.3s;
+}
+.line2 div {
+   width: 17%;
+   background-color: #ff7faa;
+   border-radius: 5px;
+   height: 6rem;
+   margin-left: 2.5%;
+   box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.2);
+   transition: 0.3s;
+}
